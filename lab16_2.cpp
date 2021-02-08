@@ -1,7 +1,11 @@
 #include<iostream>
 using namespace std;
 
-//Write the definition of myString() here
+________ myString(_____________________){
+	_______ = new ____________;    
+	for(int i = 0; i < N;i++) ____________ = 'A'+i;
+	__________ = 0;
+}
 
 int main(){
 	char *p;
